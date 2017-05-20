@@ -1,0 +1,14 @@
+{
+    "name": "q",
+    "package": "q",
+    "index": "card/index.html",
+    "selectors": {
+        "h2 code": "Command"
+    },
+    "ignore": [
+        "ABOUT"
+    ],
+    "icon32x32": "",
+    "allowJS": false,
+    "ExternalURL": ""
+}
